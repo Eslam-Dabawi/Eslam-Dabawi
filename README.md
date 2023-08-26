@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+I'm Eslam Dabawi a Self-motivated computer science enthusiast on a journey of self-study.
+Passionate about coding, problem-solving, and continuous learning in the field of technology.
+
 <!--
 **Eslam-Dabawi/Eslam-Dabawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
