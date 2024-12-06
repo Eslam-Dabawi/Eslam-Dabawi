@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-I'm Eslam Dabawi a Self-motivated computer science enthusiast on a journey of self-study.
-Passionate about coding, problem-solving, and continuous learning in the field of technology.
+I'm Eslam Dabawi, a self-driven programmer with a deep passion for computer science, coding, and problem-solving. Focused on mastering algorithms, software development, and continually expanding my knowledge in the tech field.
 
 <!--
 **Eslam-Dabawi/Eslam-Dabawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
